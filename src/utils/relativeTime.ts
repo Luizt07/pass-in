@@ -5,6 +5,6 @@ import relativeTime from 'dayjs/plugin/relativeTime'
 dayjs.extend(relativeTime)
 dayjs.locale('pt-br')
 
-export function transformDateToRelativeTime(date: Date): string {
+export function transformDateToRelativeTime(date: string): string {
   return dayjs().to(date)
 }
