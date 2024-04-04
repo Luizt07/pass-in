@@ -7,8 +7,6 @@ O projeto web desenvolvido nessa trilha de react consiste em duas telas:
 - Tela de Eventos (em desenvolvimento)
 - Tela de Participantes (desenvolvido durante o curso)
 
-https://github.com/Luizt07/pass-in/assets/43181720/0a11672c-ddb8-4ac5-9775-ec3d46bd0e04
-
 ## Tecnologias utilizadas
 
 <div style="display:flex; align-items:center;margin-bottom:10px">
