@@ -1,16 +1,16 @@
 ## Pass-in (Web)
-Pass-in é um projeto  voltado para o gerenciamento de check-in em eventos desenvolvido durante a trilha ReactjJS do NLW da Rocketseat
+Pass-in é um projeto voltado para o gerenciamento de check-in em eventos, desenvolvido durante a trilha ReactJS do NLW da Rocketseat
 
 ## Telas & Funcionalidades
 
 1. **Tela de Participantes**
- - Exite uma lista de participantes com nome, email, data de incrição e data de check-in;
+ - Exibe uma lista de participantes com nome, email, data de incrição e data de check-in;
  - Permite filtrar os participantes por nome;
  - Navegação pela lista com paginação;
 
 2. **Tela de Eventos (Em desenvolvimento)**
 
-Alem de permitir que o usuario compartilhe a pagina em seu estado atual, pois foi utilizado o conceito de URL State no desenvolvimento
+Além de permitir que o usuário compartilhe a página em seu estado atual, pois foi utilizado o conceito de URL State no desenvolvimento
    
 ## Tecnologias utilizadas
 
