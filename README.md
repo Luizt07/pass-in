@@ -1,34 +1,41 @@
-## Pass-in
+## Pass-in (Web)
 Pass-in é um projeto  voltado para o gerenciamento de check-in em eventos desenvolvido durante a trilha ReactjJS do NLW da Rocketseat
 
-## Telas
+## Telas & Funcionalidades
 
-O projeto web desenvolvido nessa trilha de react consiste em duas telas: 
-- Tela de Eventos (em desenvolvimento)
-- Tela de Participantes (desenvolvido durante o curso)
+1. **Tela de Participantes**
+ - Exite uma lista de participantes com nome, email, data de incrição e data de check-in;
+ - Permite filtrar os participantes por nome;
+ - Navegação pela lista com paginação;
 
+2. **Tela de Eventos (Em desenvolvimento)**
+
+Alem de permitir que o usuario compartilhe a pagina em seu estado atual, pois foi utilizado o conceito de URL State no desenvolvimento
+   
 ## Tecnologias utilizadas
 
-<div style="display:flex; align-items:center;margin-bottom:10px">
-  <img style="height:20px;width:20px;margin-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg'>
-  <strong>ReactJS</strong>
+<div style="text-align: center;">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg' width="16px" height="16px">
+  <span>Vitejs Build Tool</span>
 </div>
 
-<div style="display:flex; align-items:center;margin-bottom:10px">
-  <img style="height:20px;width:20px;margin-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg'>
-  <strong>Typescript</strong>
+<div style="text-align: center;">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg' width="16px" height="16px">
+  <span>ReactJS</span>
 </div>
 
-<div style="display:flex; align-items:center">
-  <img style="height:20px;width:20px;margin-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg'>
-  <strong>Tailwind CSS</strong>
+<div style="text-align: center;">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg' width="16px" height="16px">
+  <span>Typescript</span>
 </div>
 
-#### Conceito utilizado durante o desenvolvimento
-
-A utilização do conceito de [URL State](https://www.freecodecamp.org/news/how-to-use-urls-for-state-management-in-react/)  no desenvolvimento do sistema permite aos usuários compartilharem a página com seu estado atual.
+<div style="text-align: center;">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg' width="16px" height="16px">
+  <span>Tailwind CSS</span>
+</div>
 
 ## Como rodar o projeto?
 1. Clone o repositório
 2. Instale as dependências com `npm install`
 4. Inicie  com `npm run dev`
+5. Clone a [API](https://github.com/rocketseat-education/nlw-unite-nodejs) da Rocketseat para consumo dos dados
